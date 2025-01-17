@@ -29,7 +29,7 @@ Troque a linguagem do conversor:
 ```bash
 convertomp -L 
 ```
-Aparecerar:
+Aparecerá:
 ```bash
 convertomp -L                               ─╯
 Please specify a language number after -L.
@@ -53,7 +53,7 @@ convertomp -L 2
 
 O Conversor oferece 2  opções para uso
 
-### 🛠️ **Opções do Compilador**  
+### 🛠️ **Opções**  
 | **Opção** | **Comando**                                                                                                                                      | **Serventia**                                                                 |
 |-----------|----------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 | `arquivo.pwn`     |  `comvertomp <arquivo.pwn>`                                                    | Utilize esse comando para converter a gamemode pro open.mp |
