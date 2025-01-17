@@ -21,7 +21,7 @@
 Execute o comando abaixo no Termux para adicionar o conversor:
 
 ```bash
-curl https://raw.githubusercontent.com/Brabosxtz/ /install.sh | bash
+curl https://raw.githubusercontent.com/Brabosxtz/Conversor-samp-para-open.mp/install.sh | bash
 ```
 ### 2️⃣ **Modifique a linguagem**  
 Troque a linguagem do conversor:  
