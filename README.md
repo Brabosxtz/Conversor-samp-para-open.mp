@@ -1,8 +1,8 @@
-# ⚙️ **Conversor samp para open.mp**  
+# 📖 **Conversor samp para open.mp**  
 
 **convertomp** é uma solução prática para converter sua gamemode samp para open.mp
 
-## ✨ **Funcionalidades Principais**  
+## ✨ **Funcionalidades**  
 - **Gamemodes**: Converte a pasta gamemodes.
 - **Filterscripts**: Converte a pasta gamemodes.
 - **Plugins**: Converte os plugins para open.mp.
@@ -12,7 +12,7 @@
 - **Linguagens**: Disponivel em 4 linguagens português,ingles,espanhol,russo.
 ---
 
-## 🔧 **Pré-requisitos**  
+## 🔧 **Requisitos**  
 1. **Termux**: Baixe e instale a versão mais recente do Termux.  
    **[Baixar o Termux aqui](https://f-droid.org/repo/com.termux_1020.apk)**  
 ## 📥 **Instalação**  
@@ -49,7 +49,7 @@ convertomp -L 2
 ```
 ---
 
-## 📘 **Configuração do Conversor**  
+## ⚙️**Configuração do Conversor**  
 
 O Conversor oferece 2  opções para uso
 
@@ -57,7 +57,7 @@ O Conversor oferece 2  opções para uso
 | **Opção** | **Comando**                                                                                                                                      | **Serventia**                                                                 |
 |-----------|----------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 | `arquivo.pwn`     |  `comvertomp <arquivo.pwn>`                                                    | Utilize esse comando para converter a gamemode pro open.mp |
-| `-L`      | Idioma do conversor: `1` (ingles), `2` (português), `3` (espanhol), `4` (russo).                                                     | Utilize `-L 2` para usar o idioma **Português Brasileiro**. |
+| `-L`      | Idioma do conversor: `1` ingles, `2` português, `3` espanhol, `4` russo.                                                     | Utilize `-L 2` para usar o idioma **Português Brasileiro**. |
 | `pasta modulos`      | opcional,ele ja tem a configuração para buscar tanto a pasta `modulos` ou `modules`   | **Ative** (`convertomp <arquivo.pwn> <../pasta>`) se o nome do modulos for diferente de modulos/modules                               |
 ## 📜 **Licença**  
 Este projeto está sob a licença **MIT**.  
