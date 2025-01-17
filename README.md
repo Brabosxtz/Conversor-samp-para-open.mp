@@ -1,6 +1,6 @@
 # ⚙️ **Conversor samp para open.mp**  
 
-**Termux Pawn** é uma solução prática para converter sua gamemode samp para open.mp
+**convertomp** é uma solução prática para converter sua gamemode samp para open.mp
 
 ## ✨ **Funcionalidades Principais**  
 - **Gamemodes**: Converte a pasta gamemodes.
@@ -49,15 +49,15 @@ convertomp -L 2
 ```
 ---
 
-## 📘 **Configuração do Compilador PAWN**  
+## 📘 **Configuração do Conversor**  
 
-O PAWN oferece diversas opções para personalizar o comportamento do compilador. Você pode configurá-las usando um arquivo de especificação.
+O Conversor oferece 2  opções para uso
 
 ### 🛠️ **Opções do Compilador**  
 | **Opção** | **Comando**                                                                                                                                      | **Serventia**                                                                 |
 |-----------|----------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 | `arquivo.pwn`     |  `comvertomp <arquivo.pwn>`                                                    | Utilize esse comando para converter a gamemode pro open.mp |
 | `-L`      | Idioma do compilador: `1` (ingles), `2` (português), `3` (espanhol), `4` (russo).                                                     | Utilize `-L 2` para usar o idioma **Português Brasileiro**. |
-| `pasta modulos`      | Compatibilidade com modulos antigos. Permite incluir arquivos várias vezes, útil para includes como `y_hooks`.                                    | **Ative** (`-Z+`) se usar includes antigos.                                      |
+| `pasta modulos`      | opcional,ele ja twn a configuração para buscar tanto a pasta `modulos` ou `modules`   | **Ative** (`convertomp <arquivo.pwn> <../pasta>`) se o nome do modulos for diferente de modulos/modules                               |
 ## 📜 **Licença**  
 Este projeto está sob a licença **MIT**.  
