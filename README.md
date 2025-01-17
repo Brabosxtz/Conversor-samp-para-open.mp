@@ -57,7 +57,7 @@ O Conversor oferece 2  opções para uso
 | **Opção** | **Comando**                                                                                                                                      | **Serventia**                                                                 |
 |-----------|----------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 | `arquivo.pwn`     |  `comvertomp <arquivo.pwn>`                                                    | Utilize esse comando para converter a gamemode pro open.mp |
-| `-L`      | Idioma do compilador: `1` (ingles), `2` (português), `3` (espanhol), `4` (russo).                                                     | Utilize `-L 2` para usar o idioma **Português Brasileiro**. |
-| `pasta modulos`      | opcional,ele ja twn a configuração para buscar tanto a pasta `modulos` ou `modules`   | **Ative** (`convertomp <arquivo.pwn> <../pasta>`) se o nome do modulos for diferente de modulos/modules                               |
+| `-L`      | Idioma do conversor: `1` (ingles), `2` (português), `3` (espanhol), `4` (russo).                                                     | Utilize `-L 2` para usar o idioma **Português Brasileiro**. |
+| `pasta modulos`      | opcional,ele ja tem a configuração para buscar tanto a pasta `modulos` ou `modules`   | **Ative** (`convertomp <arquivo.pwn> <../pasta>`) se o nome do modulos for diferente de modulos/modules                               |
 ## 📜 **Licença**  
 Este projeto está sob a licença **MIT**.  
