@@ -1,4 +1,4 @@
-
+#!/bin/bash
 
 echo -e "\n\n\033[32mConversor SA-MP para Open.MP\n\e[0m"
 
