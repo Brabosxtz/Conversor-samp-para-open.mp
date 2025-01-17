@@ -7,4 +7,4 @@ pkg install -y python
 pip install convertomp
 
 echo -e "\n\e[32mInstalação concluída com sucesso!\e[0m"
-echo -e "Você pode usar o comando executando:\n\e[33mconvertomp <arquivo> optional:[pasta_modulos]\e[0m"
+echo -e "Você pode usar o comando executando:\n\e[33mconvertomp <arquivo\-L> optional:[pasta_modulos]\e[0m"
