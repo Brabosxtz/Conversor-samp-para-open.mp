@@ -4,7 +4,7 @@
 
 ## ✨ **Funcionalidades**  
 - **Gamemodes**: Converte a pasta gamemodes.
-- **Filterscripts**: Converte a pasta gamemodes.
+- **Filterscripts**: Converte a pasta filterscripts.
 - **Plugins**: Converte os plugins para open.mp.
 - **Includes**: Converte as includes.
 - **Server.cfg**: Converte o server.cfg para config.json.
