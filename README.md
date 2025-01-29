@@ -14,7 +14,7 @@
 
 ## 🔧 **Requisitos**  
 1. **Termux**: Baixe e instale a versão mais recente do Termux.  
-   **[Baixar o Termux aqui](https://f-droid.org/repo/com.termux_1020.apk)**  
+   **[Baixe o Termux aqui](https://f-droid.org/repo/com.termux_1020.apk)**  
 ## 📥 **Instalação**  
 
 ### 1️⃣ **Instalação**  
