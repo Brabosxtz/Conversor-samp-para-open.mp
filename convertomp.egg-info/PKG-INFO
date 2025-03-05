@@ -1,0 +1,53 @@
+Metadata-Version: 2.2
+Name: convertomp
+Version: 1.0.0
+Summary: Conversor de SA-MP para open.mp
+Home-page: https://github.com/Brabosxtz/Conversor-samp-para-open.mp
+Author: Brabos
+Author-email: 
+License: MIT License
+        
+        Copyright (c) [year] [fullname]
+        
+        Permission is hereby granted, free of charge, to any person obtaining a copy
+        of this software and associated documentation files (the "Software"), to deal
+        in the Software without restriction, including without limitation the rights
+        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+        copies of the Software, and to permit persons to whom the Software is
+        furnished to do so, subject to the following conditions:
+        
+        The above copyright notice and this permission notice shall be included in all
+        copies or substantial portions of the Software.
+        
+        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+        SOFTWARE.
+        
+Keywords: SA-MP,open.mp,converter
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: requests>=2.28.1
+Requires-Dist: html2text>=2020.1.16
+Requires-Dist: mediafire_dl
+Requires-Dist: beautifulsoup4>=4.11.1
+Dynamic: home-page
+Dynamic: requires-python
+
+# ConvertOMP
+
+O `ConvertOMP` é um pacote Python que fornece ferramentas para conversão de arquivos do Samp para open.mp. Este pacote é projetado para ser simples de usar e eficiente no processo de conversão de arquivos dentro do ambiente Open-MP.
+
+## Instalação
+
+Para instalar o `ConvertOMP`, você pode usar o `pip` diretamente:
+
+```bash
+pip install convertomp

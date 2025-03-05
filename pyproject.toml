@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "convertomp"
+version = "1.0.0"
+description = "Conversor de SA-MP para open.mp"
+authors = [
+    {name = "Brabos"}
+]
+
+license = { file = "LICENSE" }
+readme = "README.md"
+requires-python = ">=3.6"
+keywords = ["SA-MP", "open.mp", "converter"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = ["requests>=2.28.1", "html2text>=2020.1.16", "mediafire_dl", "beautifulsoup4>=4.11.1"]
+
+[project.scripts]
+convertomp = "convertomp:main"
+
+[tool.setuptools.package-data]
+convertomp = ["*.txt", "*.json", "*.md"]

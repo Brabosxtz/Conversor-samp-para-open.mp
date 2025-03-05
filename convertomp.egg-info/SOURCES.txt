@@ -1,0 +1,11 @@
+LICENSE
+README.md
+convertomp.py
+pyproject.toml
+setup.py
+convertomp.egg-info/PKG-INFO
+convertomp.egg-info/SOURCES.txt
+convertomp.egg-info/dependency_links.txt
+convertomp.egg-info/entry_points.txt
+convertomp.egg-info/requires.txt
+convertomp.egg-info/top_level.txt

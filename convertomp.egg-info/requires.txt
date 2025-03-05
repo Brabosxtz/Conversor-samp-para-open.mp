@@ -1,0 +1,4 @@
+requests>=2.28.1
+html2text>=2020.1.16
+mediafire_dl
+beautifulsoup4>=4.11.1
