@@ -22,7 +22,7 @@ python install convertomp
 ```
 ---
 
-🌍 Idioma
+## 🌍 Idioma
 
 Defina o idioma com:
 ```bash
@@ -39,7 +39,7 @@ Número	Idioma
 
 ---
 
-⚙️ Como usar
+## ⚙️ Como usar
 ```bash
 cd /sdcard/download/MyProject/gamemodes
 
@@ -47,7 +47,7 @@ convertomp <arquivo.pwn> opcional:[pasta_modulos]
 ```
 ---
 
-🛠️ O que ele faz
+## 🛠️ O que ele faz
 
 📦 Cria backup automático (/backups/)
 
@@ -72,7 +72,7 @@ components/
 
 ---
 
-✨ Exemplo de Conversão
+## ✨ Exemplo de Conversão
 
 // Antes
 SetTimer("Func", 1000, 0);
@@ -83,7 +83,7 @@ SetTimer("Func", 1000, false);
 
 ---
 
-🧩 Plugins e Includes
+## 🧩 Plugins e Includes
 
 Detecta plugins do server.cfg e baixa automaticamente
 
@@ -93,7 +93,7 @@ Converte .inc e .pwn em filterscripts/ e pawno/include/
 
 ---
 
-⚠️ Importante
+## ⚠️ Importante
 
 Execute dentro da pasta gamemodes
 
