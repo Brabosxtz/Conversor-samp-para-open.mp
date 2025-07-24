@@ -16,7 +16,7 @@ Ferramenta para converter projetos SA:MP em Open.MP com suporte multilíngue, ba
 
 ## 🧠 Instalação
 
-```bash
+```js
 pkg install python
 python install convertomp
 ```
@@ -25,7 +25,7 @@ python install convertomp
 ## 🌍 Idioma
 
 Defina o idioma com:
-```bash
+```js
 convertomp.py -L <número>
 
 Número	Idioma
@@ -40,7 +40,7 @@ Número	Idioma
 ---
 
 ## ⚙️ Como usar
-```bash
+```js
 cd /sdcard/download/MyProject/gamemodes
 
 convertomp <arquivo.pwn> opcional:[pasta_modulos]
@@ -73,13 +73,13 @@ components/
 ---
 
 ## ✨ Exemplo de Conversão
-
+```js
 // Antes
 SetTimer("Func", 1000, 0);
 
 // Depois
 SetTimer("Func", 1000, false);
-
+```
 
 ---
 
