@@ -26,7 +26,7 @@ python install convertomp
 
 Defina o idioma com:
 ```bash
-python convertomp.py -L <número>
+convertomp.py -L <número>
 
 Número	Idioma
 
